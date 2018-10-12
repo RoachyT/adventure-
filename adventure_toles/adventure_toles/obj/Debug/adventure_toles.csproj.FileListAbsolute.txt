@@ -1,0 +1,7 @@
+C:\Users\rtoles\Desktop\Adventure\adventure_toles\adventure_toles\bin\Debug\adventure_toles.exe.config
+C:\Users\rtoles\Desktop\Adventure\adventure_toles\adventure_toles\bin\Debug\adventure_toles.exe
+C:\Users\rtoles\Desktop\Adventure\adventure_toles\adventure_toles\bin\Debug\adventure_toles.pdb
+C:\Users\rtoles\Desktop\Adventure\adventure_toles\adventure_toles\obj\Debug\adventure_toles.csprojAssemblyReference.cache
+C:\Users\rtoles\Desktop\Adventure\adventure_toles\adventure_toles\obj\Debug\adventure_toles.csproj.CoreCompileInputs.cache
+C:\Users\rtoles\Desktop\Adventure\adventure_toles\adventure_toles\obj\Debug\adventure_toles.exe
+C:\Users\rtoles\Desktop\Adventure\adventure_toles\adventure_toles\obj\Debug\adventure_toles.pdb
